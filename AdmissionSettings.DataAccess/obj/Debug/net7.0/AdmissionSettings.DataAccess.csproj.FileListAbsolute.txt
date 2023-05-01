@@ -1,0 +1,17 @@
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\bin\Debug\net7.0\AdmissionSettings.DataAccess.deps.json
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\bin\Debug\net7.0\AdmissionSettings.DataAccess.runtimeconfig.json
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\bin\Debug\net7.0\AdmissionSettings.DataAccess.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\bin\Debug\net7.0\AdmissionSettings.DataAccess.pdb
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\bin\Debug\net7.0\AdmissionSettings.Domain.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\bin\Debug\net7.0\AdmissionSettings.Domain.pdb
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.csproj.CopyComplete
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\refint\AdmissionSettings.DataAccess.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.pdb
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\AdmissionSettings.DataAccess.genruntimeconfig.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.DataAccess\obj\Debug\net7.0\ref\AdmissionSettings.DataAccess.dll

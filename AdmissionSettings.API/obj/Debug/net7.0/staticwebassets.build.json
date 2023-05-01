@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UpInkxv1cVQqvzhAv2DzegER/mZzjhiLrIZJRwr7C54=",
+  "Source": "AdmissionSettings.API",
+  "BasePath": "_content/AdmissionSettings.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

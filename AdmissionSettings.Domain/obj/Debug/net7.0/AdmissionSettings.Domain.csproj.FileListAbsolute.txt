@@ -1,0 +1,12 @@
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\bin\Debug\net7.0\AdmissionSettings.Domain.deps.json
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\bin\Debug\net7.0\AdmissionSettings.Domain.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\bin\Debug\net7.0\AdmissionSettings.Domain.pdb
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\refint\AdmissionSettings.Domain.dll
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\AdmissionSettings.Domain.pdb
+C:\Users\Blvke\source\repos\AdmissionSettings\AdmissionSettings.Domain\obj\Debug\net7.0\ref\AdmissionSettings.Domain.dll
